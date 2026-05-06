@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2e0fdace-29d7-41b4-9b96-f4b77d526967}">
 		<property name="name">
-			<value>Outside - Zone 1</value>
+			<value>OutsideMusic</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>
