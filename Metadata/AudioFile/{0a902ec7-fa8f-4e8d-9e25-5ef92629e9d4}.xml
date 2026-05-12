@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{9a7e1fc2-9a6a-45c8-91f0-49914345e8fa}">
+	<object class="AudioFile" id="{0a902ec7-fa8f-4e8d-9e25-5ef92629e9d4}">
 		<property name="assetPath">
-			<value>Music/Main Menu Theme Melody.mp3</value>
+			<value>Music/Indoor/Indoor Music Synth Arp 54 90.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>42.048000000000002</value>
+			<value>23.399999999999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
