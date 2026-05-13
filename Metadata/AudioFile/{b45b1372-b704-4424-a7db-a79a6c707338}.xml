@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{71b1c0ab-5869-4f3d-8d2f-2984fdd238ee}">
+	<object class="AudioFile" id="{b45b1372-b704-4424-a7db-a79a6c707338}">
 		<property name="assetPath">
-			<value>Music/MainMenu/Main Menu Drums (Crunch) 44 90.mp3</value>
+			<value>Music/MainMenu/Main Menu Drums2 44 90.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>64.727999999999994</value>
+			<value>21.384</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>

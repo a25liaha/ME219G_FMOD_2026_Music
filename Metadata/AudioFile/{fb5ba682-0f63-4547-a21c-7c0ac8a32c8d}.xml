@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{28119c61-3ddf-4cd6-9a8a-e3fce96576a0}">
+	<object class="AudioFile" id="{fb5ba682-0f63-4547-a21c-7c0ac8a32c8d}">
 		<property name="assetPath">
-			<value>Music/Indoor/Indoor Music Drums (Kick and Hi-Hat) 54 90.mp3</value>
+			<value>Music/MainMenu/Main Menu Drums3 44 90.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>46.728000000000002</value>
+			<value>21.384</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
