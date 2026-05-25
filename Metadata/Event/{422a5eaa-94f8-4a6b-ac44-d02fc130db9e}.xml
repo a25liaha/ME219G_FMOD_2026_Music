@@ -1001,6 +1001,9 @@
 		<property name="length">
 			<value>18</value>
 		</property>
+		<property name="transitionOffset">
+			<value>1</value>
+		</property>
 		<relationship name="timeline">
 			<destination>{57cc8c09-0d62-4360-99fb-4fa4b5f0e838}</destination>
 		</relationship>
