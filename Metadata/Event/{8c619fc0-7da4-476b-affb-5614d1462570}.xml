@@ -149,7 +149,7 @@
 			<value>-9</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Piano Lead</value>
 		</property>
 		<relationship name="automators">
 			<destination>{12e1df20-740e-4921-8e95-93f1fa656d5b}</destination>
@@ -182,7 +182,7 @@
 			<value>-9</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Piano Bass</value>
 		</property>
 		<relationship name="automators">
 			<destination>{596bbafb-a2c9-416a-a137-8dee44419e51}</destination>
@@ -215,7 +215,7 @@
 			<value>-14.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Soundscape</value>
 		</property>
 		<relationship name="automators">
 			<destination>{3b979f23-65e3-412b-9000-fa77be907b30}</destination>

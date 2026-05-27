@@ -320,7 +320,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Pads</value>
 		</property>
 		<relationship name="automators">
 			<destination>{a94d4e84-fea8-4693-a315-af6ed04ff894}</destination>
@@ -391,7 +391,7 @@
 			<value>-24.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Strings</value>
 		</property>
 		<relationship name="automators">
 			<destination>{d91c03ff-35ec-40da-86a5-06cc0d215cc1}</destination>
@@ -456,7 +456,7 @@
 			<value>-15</value>
 		</property>
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Woodwinds</value>
 		</property>
 		<relationship name="automators">
 			<destination>{7ee45d3d-641b-409d-80b7-2f2a9581652e}</destination>
@@ -524,7 +524,7 @@
 			<value>-14.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Pad Bass</value>
 		</property>
 		<relationship name="automators">
 			<destination>{37c0880e-4403-47cc-99c4-2b23b9d4d096}</destination>
@@ -589,7 +589,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 5</value>
+			<value>Drums</value>
 		</property>
 		<relationship name="automators">
 			<destination>{cae799cf-8de7-4616-a035-c565265e0395}</destination>
@@ -655,7 +655,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 6</value>
+			<value>Combat Drums</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{296c3565-8bb0-4a3b-b683-f7b1daadfcb4}</destination>
@@ -718,7 +718,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 7</value>
+			<value>Combat Bass</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{4420c143-2d25-443a-97ad-bba9b8ca769a}</destination>
@@ -781,7 +781,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 8</value>
+			<value>Combat Lead</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0c7c850c-70e6-4975-9691-c58c4cd03814}</destination>

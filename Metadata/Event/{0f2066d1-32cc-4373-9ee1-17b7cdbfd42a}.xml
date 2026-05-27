@@ -168,7 +168,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Sytnh Lead 1</value>
 		</property>
 		<relationship name="automators">
 			<destination>{0e82cd01-161d-423f-b49d-b48e6c13cd80}</destination>
@@ -210,7 +210,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Bass Arp</value>
 		</property>
 		<relationship name="automators">
 			<destination>{2c1bd6c4-6444-4cd3-9c25-cfba20ffd700}</destination>
@@ -252,7 +252,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Pad</value>
 		</property>
 		<relationship name="automators">
 			<destination>{fa0ae95b-ae5e-484d-9e39-09e0ba1b9a48}</destination>
@@ -291,7 +291,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Perc</value>
 		</property>
 		<relationship name="automators">
 			<destination>{606d091a-fe86-4573-9d32-9fbf3f0e3b62}</destination>

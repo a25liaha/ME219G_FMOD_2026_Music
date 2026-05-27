@@ -175,7 +175,7 @@
 			<value>-7</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Bass</value>
 		</property>
 		<relationship name="automators">
 			<destination>{4e33b738-3005-4193-ad81-c9e625cf76d0}</destination>
@@ -208,7 +208,7 @@
 			<value>-14.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Drums 2</value>
 		</property>
 		<relationship name="automators">
 			<destination>{4d23c338-f8f9-48b9-b035-82c66ed9ab2f}</destination>
@@ -241,7 +241,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{93b6447e-0190-4047-8786-190ee4714b5e}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Pad</value>
 		</property>
 		<relationship name="automators">
 			<destination>{56effe7c-1560-4f9e-b2f5-5c08e87ac8e4}</destination>
@@ -274,7 +274,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{73db4e6b-c8f6-4f9f-a38b-9ccaae10b6d9}">
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Strings</value>
 		</property>
 		<relationship name="automators">
 			<destination>{ff4a4830-b121-47fe-8372-5f91fd6cae9a}</destination>
@@ -304,7 +304,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{fa63495f-3a6b-4632-9588-4a15869c08dc}">
 		<property name="name">
-			<value>Audio 5</value>
+			<value>Drums 1</value>
 		</property>
 		<relationship name="automators">
 			<destination>{91a37d0b-254b-43e2-9bc4-556b18781462}</destination>

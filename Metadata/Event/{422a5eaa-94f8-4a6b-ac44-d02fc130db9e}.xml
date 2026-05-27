@@ -337,7 +337,7 @@
 			<value>-7</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Perc</value>
 		</property>
 		<relationship name="automators">
 			<destination>{633b68c1-eb58-472c-a7e2-fdcc864d1eeb}</destination>
@@ -408,7 +408,7 @@
 			<value>-5</value>
 		</property>
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Bass Arp</value>
 		</property>
 		<relationship name="automators">
 			<destination>{99c40c5b-0081-4312-b417-773d866e9353}</destination>
@@ -479,7 +479,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{42f2b265-a581-4db9-b3cd-c040a34d07b5}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Pad</value>
 		</property>
 		<relationship name="automators">
 			<destination>{16c8a379-b541-46d1-948b-54b5a82b1051}</destination>
@@ -544,7 +544,7 @@
 			<value>-8.5</value>
 		</property>
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Synth Lead</value>
 		</property>
 		<relationship name="automators">
 			<destination>{04a84033-e941-4e15-aa4b-00d138144b93}</destination>
@@ -609,7 +609,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 5</value>
+			<value>Drums - kick/hi-hat</value>
 		</property>
 		<relationship name="automators">
 			<destination>{82ec1e93-5e3e-4ccc-976d-41c126556cdd}</destination>
@@ -674,7 +674,7 @@
 			<value>-10</value>
 		</property>
 		<property name="name">
-			<value>Audio 6</value>
+			<value>Drums (Main)</value>
 		</property>
 		<relationship name="automators">
 			<destination>{3838bfcc-b885-42f4-b54a-59c8be3bb770}</destination>
