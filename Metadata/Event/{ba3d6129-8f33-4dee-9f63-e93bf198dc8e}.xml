@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ba3d6129-8f33-4dee-9f63-e93bf198dc8e}">
+		<property name="note">
+			<value>Musik för Boss fighten. Styrt med ett vertikalt event samt med hjälp av ett script i Unity. </value>
+		</property>
 		<property name="name">
 			<value>MusicBoss</value>
 		</property>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{0f2066d1-32cc-4373-9ee1-17b7cdbfd42a}">
+		<property name="note">
+			<value>Musik för inomhus (zon 4). Musiken spelas i det rummet där den otäcka Cthulhu statyn är. För att spegla den otäcka atmosfären pitchade jag ner musiken. </value>
+		</property>
 		<property name="name">
 			<value>IndoorMusic2</value>
 		</property>

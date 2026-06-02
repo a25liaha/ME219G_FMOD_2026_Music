@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d539e5cd-5e6d-4123-8fae-3ca174c8fc38}">
+		<property name="note">
+			<value>Musik för utomhus (Zon 3). Eventet är byggt med vertikalt och horisontella parametrar. Combat musiken styrs av "Combat" parametern. </value>
+		</property>
 		<property name="name">
 			<value>MusicOutside</value>
 		</property>

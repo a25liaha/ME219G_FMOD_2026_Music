@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6e8f3bb4-b85c-437f-91ee-29d8f5697751}">
+		<property name="note">
+			<value>Stinger för Game Over med snapshot för lägre volym och eq. Detta är för att göra stingern mer tydlig genom att tysta bakgrundsljuden. Stingern har jag dock höjt eq på så den förblir oförändrad. </value>
+		</property>
 		<property name="name">
 			<value>GameOver</value>
 		</property>
@@ -122,7 +125,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{154570c8-3eb3-421a-9ac9-0c423b5a4acd}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Stinger</value>
 		</property>
 		<relationship name="automators">
 			<destination>{3b71a1ff-3e43-460f-97b9-b0486a6cdd8b}</destination>
@@ -152,7 +155,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{33100e7b-9685-4c5c-a8ce-a0681b219649}">
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Snapshot</value>
 		</property>
 		<relationship name="automators">
 			<destination>{105d1f13-8af6-4451-8fcb-686f0974250e}</destination>

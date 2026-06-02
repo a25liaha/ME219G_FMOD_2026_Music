@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{422a5eaa-94f8-4a6b-ac44-d02fc130db9e}">
+		<property name="note">
+			<value>Musik för inomhus (Zon 4). Eventet är byggt med vertikalt och horisontella parametrar. Combat musiken styrs av "Combat" parametern. </value>
+		</property>
 		<property name="name">
 			<value>IndoorMusic</value>
 		</property>
@@ -740,7 +743,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 7</value>
+			<value>Combat Drums</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{b26b893c-701a-4bb4-b016-b639b26efa1e}</destination>
@@ -803,7 +806,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 8</value>
+			<value>Combat Bass</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{ea512770-d24d-4697-b5ca-dbe0c75f3a8b}</destination>
@@ -866,7 +869,7 @@
 			<value>-8</value>
 		</property>
 		<property name="name">
-			<value>Audio 9</value>
+			<value>Combat Synth</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{62a46f3b-98c9-4e16-a308-3033fdc9ed81}</destination>

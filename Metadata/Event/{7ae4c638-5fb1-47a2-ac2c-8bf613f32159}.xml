@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7ae4c638-5fb1-47a2-ac2c-8bf613f32159}">
+		<property name="note">
+			<value>Stinger för Key PickUp med snapshot för lägre volym och eq. Detta är för att göra stingern mer tydlig genom att tysta bakgrundsljuden. Stingern har jag dock höjt eq på så den förblir oförändrad. </value>
+		</property>
 		<property name="name">
-			<value>PickUp</value>
+			<value>Key PickUp</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -119,7 +122,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{98cd18f1-678e-4c5a-8ba0-41db7f550327}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Stinger</value>
 		</property>
 		<relationship name="automators">
 			<destination>{1f091436-5983-4f05-abe7-3111c981a2d9}</destination>
@@ -149,7 +152,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{0a0ce768-970f-4ee3-a792-508191c56577}">
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Snapshot</value>
 		</property>
 		<relationship name="automators">
 			<destination>{bf779bab-8f90-47ce-b7cd-4ae8dc019840}</destination>
