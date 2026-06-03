@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Snapshot" id="{cf9eb603-d605-43ab-bf76-b90a28f6e529}">
 		<property name="note">
-			<value>Snapshot för lägre Db och eq. Används i samband med stingers. </value>
+			<value>Snapshot för lägre Db och eq. Används i samband med stingers och paus menyn. </value>
 		</property>
 		<property name="name">
 			<value>-db and eq</value>
